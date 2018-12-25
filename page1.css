@@ -1,0 +1,71 @@
+h1 {
+  font-size: 120px;
+  font-family: Permanent Marker;
+  color: black;
+}
+jumbotron p {
+  font-size: 30px;
+}
+h3 {
+  font-size: 25px;
+  font-family: hind, sansserif;
+}
+p {
+  font-size: 29px;
+  font-family: hind, sansserif;
+}
+p#losinfo{
+  font-size: 28px;
+  font-family: hind, sansserif;
+}
+.container-fluid
+.smaller-image{
+  width: 300px;
+}
+.thick-white-border{
+  border-color: white;
+  border-width: 0px;
+  border-style: solid;
+  border-radius: 147px;
+}
+}
+.smaller-image:hover{
+  transform: scale(1.05);
+
+body
+{
+ margin-top: 1px;
+ margin-left: 1px;
+ margin-right: 1px;
+}
+.jumbotron{
+  margin-top: 2px;
+  background-color: #EDEDED;
+  border-color: #CAD2C5;
+}
+.bg{
+  width: 100%;
+  height: auto;
+}
+.btn{
+  background-color: #04883;
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  font-size: 16px;
+  a {text-decoration:none;
+  color: gray;}
+  }
+a{ link-color: #FF0000}
+.button:hover {background-color: black;}
+.button:active {
+  background-color: black;
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+  }
+img {
+      max-width:100%;
+      display: block;
+      height: auto;
+}
